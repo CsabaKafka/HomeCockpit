@@ -5,7 +5,7 @@
  * PIN = 4    ToggleExternalPower
  * PIN = 5    ToggleStarter1
  * PIN = 6    ToggleStarter2
- * PIN = 7    ToggleStarter2
+ * PIN = 7    ToggleStarterAutoStart
  */
 
 #include <BitsAndDroidsFlightConnector.h>
